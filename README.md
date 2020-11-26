@@ -1,5 +1,5 @@
 # Handwriting Classifier
-This model uses Neural Networks and Random Forests to determine if the input photo is my handwriting or not. 
+This model uses Neural Networks and Random Forests to determine if the input photo contains my handwriting or not. 
 # Important : Since I cannot upload the photos here, hence I have made available a trained model in the jupyter notebook. Thus, please run the notebook from the 5th last line. All the above lines in the notebook are for training the model if the photos can be uploaded
 All the data used has been taken by my phone and hence needed some preprocessing and data augmentation.
 Neural networks don't seem to work well as they give some 60% accuracy at max on the train data while Random Forests give 100% on train and 80% on test data.
